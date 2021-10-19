@@ -1,0 +1,23 @@
+{
+  "name": "webgl-obj-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script//index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravinpoudel/objLoader.git"
+  },
+  "keywords": [
+    "3D",
+    "loader"
+  ],
+  "author": "pravin poudel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pravinpoudel/objLoader/issues"
+  },
+  "homepage": "https://github.com/pravinpoudel/objLoader#readme"
+}
